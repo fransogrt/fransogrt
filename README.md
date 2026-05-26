@@ -13,6 +13,6 @@
 <br><br>
 
 
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/francisco-ogallar-arturo-740202309/) 
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/10559526)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/francisco-ogallar-arturo-740202309/) 
 </div>
