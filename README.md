@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/assets/forest.gif" width="25%" align="right" />
+<img src="/assets/forest.gif" width="20%" align="right" />
 <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=10703a&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I%27m+Fran%2C+a+full+stack+web+dev+student+^^" width="70%" />
 <pre>
     💼 Full Stack Web Dev Student
