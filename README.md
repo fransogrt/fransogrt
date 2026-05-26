@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**fransogrt/fransogrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="/assets/forest.gif" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=10703a&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I%27m+Fran%2C+a+full+stack+web+dev+student+^^" width="70%" />
+<pre>
+    💼 Full Stack Web Dev Student
+    💻 Frontend • Backend • Databases
+    📖 Always learning something new
+    🎮 Anime • Games • Code
+</pre>
+<br>
+ <img src="./assets/starly.gif" height="40" />
+<br><br>
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/francisco-ogallar-arturo-740202309/) 
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/10559526)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
